@@ -3,13 +3,9 @@
 
 <p align="center">
 <img src="https://img.shields.io/static/v1?&message=Java&color=blue?style=plastic&logo=Java" alt="Java" />
-
 <img alt="Repository size" src="https://img.shields.io/github/repo-size/fmreina/pokemon-premium-minds">
 <img alt="Code size" src="https://img.shields.io/github/languages/code-size/fmreina/pokemon-premium-minds">
-
-<a href="https://github.com/fmreina/ecoleta/commits/master">
 <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/fmreina/pokemon-premium-minds">
-</a>
 </p>
 
 # Pokemon: Catch them all! 
