@@ -2,7 +2,7 @@
 [English](#pokemon-catch-them-all) / [Português](#pokemon-apanhá-los-todos)
 
 <p align="center">
-<img src="https://img.shields.io/static/v1?&message=Java&color=blue?style=plastic&logo=Java" alt="Java" />
+<img src="https://img.shields.io/static/v1?label=language&message=Java&color=blue?style=plastic&logo=Java" alt="Java" />
 <img alt="Repository size" src="https://img.shields.io/github/repo-size/fmreina/pokemon-premium-minds">
 <img alt="Code size" src="https://img.shields.io/github/languages/code-size/fmreina/pokemon-premium-minds">
 <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/fmreina/pokemon-premium-minds">
@@ -17,7 +17,7 @@ Attention: if he passes a house where he has already (and, therefore, where he h
 What we want to know is: starting with a world full of pokemons (one in each house!), How many pokemons does Ash pick up for a given sequence of movements?
 
 ### Input format
-The program should read a line from stdin, which contains a sequence of movements. Each movement is described by a letter N, S, E or O (respectively: north, south, east, west).
+The program should read a line from stdin, which contains a sequence of movements. Each movement is described by a letter N, S, E or W (respectively: north, south, east, west).
 
 ### Output format
 The program should write a line for stdout, with just a number: how many pokémons did Ash catch?
@@ -60,7 +60,7 @@ Atenção: se ele passar numa casa onde já passou (e, portanto, onde já apanho
 O que queremos saber é: começando com um mundo cheio de pokémons (um em cada casa!), quantos pokémons o Ash apanha para uma dada sequência de movimentos?
 
 ### Formato do input
-O programa deve ler uma linha do stdin, que contém uma sequência de movimentos. Cada movimento é descrito por uma letra N, S, Eou O(respetivamente: norte, sul, este, oeste).
+O programa deve ler uma linha do stdin, que contém uma sequência de movimentos. Cada movimento é descrito por uma letra N, S, E ou O (respetivamente: norte, sul, este, oeste).
 
 ### Formato do output
 O programa deve escrever uma linha para o stdout, apenas com um número: quantos pokémons o Ash apanhou?
