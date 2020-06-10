@@ -1,4 +1,4 @@
-#Practical Test / Teste Prático  : Premium Minds 
+# Practical Test / Teste Prático  : Premium Minds 
 [English](#pokemon-catch-them-all) / [Português](#pokemon-apanhá-los-todos)
 
 <p align="center">
